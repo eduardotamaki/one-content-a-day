@@ -3,7 +3,7 @@
 
 ## Articles
 
-# [ https://medium.com/serverless-transformation/is-serverless-cheaper-for-your-use-case-find-out-with-this-calculator-2f8a52fc6a68?source=rss------serverless-5][1]
+- [ https://medium.com/serverless-transformation/is-serverless-cheaper-for-your-use-case-find-out-with-this-calculator-2f8a52fc6a68?source=rss------serverless-5][1]
 
 # Good Stuff
 
